@@ -135,3 +135,10 @@ Application ID (aka bundle ID, package name) is used as a custom URI scheme on A
 
 ### UWP authentication fails on redirect.
 UWP dropped support for local loopback scheme. Custom URI scheme is expected to be used instead. If you're interested in adding support for that, check out the [related issue](https://github.com/elringus/unity-google-drive/issues/54).
+
+---
+
+<a href="https://naninovel.com">
+  <p align="center">The plugin is used in <strong>Naninovel: Visual Novel, Dialogue & Cutscene Storytelling Engine</strong>. Check it out!</p>
+  <p align="center"><img alt="naninovel banner" src="https://raw.githubusercontent.com/elringus/cdn/main/naninovel-banner-wide.png"></p>
+</a>
